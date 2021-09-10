@@ -1,4 +1,4 @@
-👋 # Hi, I’m Ravindu
+# 👋  Hi, I’m Ravindu
 - 👀 I’m interested in Computing and Information Technology
 - 🌱 I’m currently learning Flutter and Dart
 - 💞️ I’m looking to collaborate with developers
